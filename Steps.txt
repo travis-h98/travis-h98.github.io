@@ -1,0 +1,13 @@
+﻿Travis created repository
+Add each person as collaborators to work on the project directly
+Each person needs to clone and pull from repository as changes are made
+Push changes to repository as you make them
+
+
+As collaborators you only need to do four things after a change:
+
+
+Git pull, Do this to make sure you have the current version
+Git add fileName, add a file to the commit 
+Git commit -m “commit message”, commit changes with a message
+Git push, push changes to the repository
