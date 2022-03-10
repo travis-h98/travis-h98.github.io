@@ -1,4 +1,5 @@
-      *PATTON OEHLER
+      *It is 1:23 PM
+	*PATTON OEHLER
       *2/15/2022
       *This program is a printer spacing chart
       *for the albia soccer club fundraser
