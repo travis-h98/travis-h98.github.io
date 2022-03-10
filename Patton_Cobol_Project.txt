@@ -1,5 +1,4 @@
-      *It is 1:23 PM
-	*PATTON OEHLER
+      *PATTON OEHLER
       *2/15/2022
       *This program is a printer spacing chart
       *for the albia soccer club fundraser
@@ -547,3 +546,5 @@
            WRITE ERROR-PRTLINE
              FROM ERROR-COLUMN-TITLES
              AFTER ADVANCING 2 LINES.
+
+	*It is 1:26 PM
